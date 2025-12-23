@@ -11,7 +11,7 @@
   <img align="center" alt="Arthur-Java" height="50" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">       
 </div>
 
-<h2>🔗Links</h2>
+<h2 align="center">🔗Links</h2>
 <div align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=a.vasques2801@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 10px; vertical-align: bottom;">
