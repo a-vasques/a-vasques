@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Arthur Vasques👋</h1>
 
-<p align="center" style="font-size: 50">IT Technician</p>
+<p align="center" style="font-size: 50">Full-Stack Developer</p>
 
 <h1 align="center">💻Skills</h1>
 <div align="center"><br>
