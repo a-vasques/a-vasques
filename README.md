@@ -3,7 +3,7 @@
 <p align="center" style="font-size: 50">Full-Stack Developer</p>
 
 <h1 align="center">💻Skills</h1>
-<div><br>
+<div align="center">
   <img alt="Arthur-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Arthur-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Arthur-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
